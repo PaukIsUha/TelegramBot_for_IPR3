@@ -1,1 +1,1 @@
-# TelegramBot_for_IPR3
+# TelegramBot for IPR3
